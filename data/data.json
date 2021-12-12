@@ -5,33 +5,33 @@
     },
     "main_summary": {
         "attr": "検査実施件数",
-        "value": "175,356",
+        "value": 175356,
         "children": [
             {
                 "attr": "陽性患者数",
-                "value": "9,381",
+                "value": 9381,
                 "children": [
                     {
                         "attr": "入院中",
-                        "value": "0",
+                        "value": 0,
                         "children": [
                             {
                                 "attr": "中等症",
-                                "value": "0"
+                                "value": 0
                             },
                             {
                                 "attr": "重症",
-                                "value": "0"
+                                "value": 0
                             }
                         ]
                     },
                     {
                         "attr": "退院",
-                        "value": "9,104"
+                        "value": 9104
                     },
                     {
                         "attr": "死亡",
-                        "value": "66"
+                        "value": 66
                     }
                 ]
             }
